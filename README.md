@@ -42,7 +42,7 @@ O projeto tem como principal função facilitar o trabalho dos analistas em suas
 
 | Aplicativo                  | Descrição                |
 |----------------------------|---------------------------|
-| [Scanner](https://github.com/kellerzz/KellerSM/raw/refs/heads/main/kellerSM.dll) | Scanner utilizado   |
+| [Scanner](https://github.com/kellerzz/KellerSS-PC/blob/main/KellerSS%20v6.2.exe) | Scanner utilizado   |
 
 
 
