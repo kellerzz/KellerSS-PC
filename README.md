@@ -43,9 +43,26 @@ O projeto tem como principal função facilitar o trabalho dos analistas em suas
 | Aplicativo                  | Descrição                |
 |----------------------------|---------------------------|
 | [Scanner](https://github.com/kellerzz/KellerSS-PC/blob/main/KellerSS%20v6.2.exe) | Scanner utilizado   |
+| [Tutorial](https://www.youtube.com/watch?v=RF7O1MHThsE&t=8s) | Tutorial ensinando a como utilizar   |
+
+
+<img src="https://i.imgur.com/NnWf7Fm.png" alt="line break" width="100%" height="3px">
+
+
+## Detecções
 
 
 
+| Detecções               | Descrição                                   |
+|----------------------|-----------------------------------------------|
+| `AuthModule`            | Verifica se o houve logins padrões                      | `center`        |
+| `BAM`              | Verifica arquivos suspeitos executados via BAM                      |  
+| `Disco`      | Verifica substituições de disco                |
+| `Agendador de Tarefas`      | Verifica arquivos suspeitos executados via Agendador de Tarefas                      |
+| `Analise Forense`     | Verifica Prefetch, Crash, UsageLogs, Temp, Pca                       |
+| `Analise Sistema` | Verifica ImportCode, limpeza de Strings, EventLog, LocalHost                      | 
+| `Serviços`           | Verifica se os serviços estão ativados  |
+| `Suspeita de Cheats`             | Verifica todos possíveis cheats no sistema                            | 
 
 
 
